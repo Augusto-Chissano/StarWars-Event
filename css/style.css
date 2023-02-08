@@ -9,6 +9,10 @@ body {
     flex-wrap: wrap;
 }
 
+#brand h1{
+    font-size: 2rem;
+}
+
 .about-container {
     flex: 1.4;
     padding: 2rem 4rem;
@@ -226,5 +230,14 @@ body {
 
     #register-form, #name-container {
         gap: 1rem;
+    }
+
+    #name-container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    #register-form {
+        width: 100%;
     }
 }
