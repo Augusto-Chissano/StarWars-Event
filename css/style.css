@@ -9,6 +9,7 @@ body {
     flex-wrap: wrap;
 }
 
+/*Configurations of first section (About Container) on the page*/
 #brand h1 {
     font-size: 2rem;
 }
@@ -92,7 +93,7 @@ body {
     font-size: 0.9rem;
 }
 
-/* Formulario */
+/*Configurations of second section (Form Container) on the page*/
 .form-container {
     color: #fff;
     flex: 1;
@@ -176,7 +177,7 @@ body {
     margin-bottom: 0.5rem;
 }
 
-/* Mobile */
+/* Configurations to part mobile */
 
 @media (max-width: 450px) {
     body {
