@@ -232,7 +232,7 @@ body {
 
     #register-form,
     #name-container {
-        gap: 1rem;
+        gap: 10px;
     }
 
     #name-container {
